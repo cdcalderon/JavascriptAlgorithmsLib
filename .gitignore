@@ -1,6 +1,5 @@
 .DS_Store
 
-
 # IDEs and editors
 /.idea
 .project
@@ -8,3 +7,10 @@
 .c9/
 *.launch
 .settings/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
