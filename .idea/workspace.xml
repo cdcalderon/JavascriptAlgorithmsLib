@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d7ecc9b-8c90-4caa-a828-e91aaf7b624e" name="Default" comment="Implement palindrome string algorithm">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="0d7ecc9b-8c90-4caa-a828-e91aaf7b624e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -185,7 +185,7 @@
       <updated>1518401717987</updated>
       <workItem from="1518401719196" duration="653000" />
       <workItem from="1518402480661" duration="183000" />
-      <workItem from="1519022137376" duration="1904000" />
+      <workItem from="1519022137376" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="Implement reversed string algorithm">
       <created>1518409006918</created>
@@ -222,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519024233709</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="remove root idea dir">
+      <created>1519024626251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1519024626251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11534000" />
+    <option name="totallyTimeSpent" value="11570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="551" y="25" width="1114" height="1025" extended-state="0" />
@@ -287,7 +294,8 @@
     <MESSAGE value="Implement reversed string algorithm version 4" />
     <MESSAGE value="update gitignore" />
     <MESSAGE value="Implement palindrome string algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement palindrome string algorithm" />
+    <MESSAGE value="remove root idea dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove root idea dir" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
